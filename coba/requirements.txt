@@ -1,0 +1,5 @@
+pandas
+sklearn
+uuid
+numpy
+flask-restful>=0.3.6
